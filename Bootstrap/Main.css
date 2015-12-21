@@ -1,0 +1,13 @@
+﻿.bg-cover{
+	background:url('11207299_10152844948815493_46199701326662100_n.jpg');
+	height:380px;
+	background-size:cover;
+}
+
+.mynav-outer-height{
+	height:80px;
+}
+
+.mynav-inner-height{
+	height:70px;
+}
